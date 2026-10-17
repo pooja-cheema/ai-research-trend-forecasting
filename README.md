@@ -7,7 +7,10 @@ Topic modelling and trend forecasting on **378,796 arXiv AI papers (2013–2025)
 **Answer:** yes, better than simple momentum rules. A Random Forest beat a persistence baseline in a rolling backtest and stayed ahead on genuinely unseen 2025–26 data.
 
 📄 Full report: [`report/Forecasting_Emerging_AI_Topics_Report.pdf`](report/Forecasting_Emerging_AI_Topics_Report.pdf)
+
 📓 Notebook: [`ai_trend_detection.ipynb`](ai_trend_detection.ipynb)
+
+🔗 Run it on Kaggle: [AI_Trend_Detection](https://www.kaggle.com/code/poojacheema/ai-trend-detection)
 
 ---
 
@@ -68,7 +71,7 @@ All figures produced by the notebook are in [`figures/`](figures/).
 
 ## How to run
 
-1. Open the notebook on [Kaggle](https://www.kaggle.com) and add the dataset **arXiv** by Cornell University (`arxiv-metadata-oai-snapshot.json`) as input.
+1. Open the [public Kaggle notebook](https://www.kaggle.com/code/poojacheema/ai-trend-detection) and click **Copy & Edit**. The arXiv dataset (Cornell University) is already attached.
 2. Turn on a GPU accelerator.
 3. Run all cells. The notebook installs the extra libraries itself (listed in `requirements.txt`).
 
