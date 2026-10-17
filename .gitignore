@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.parquet
+*.npy
+*.npz
+*.pkl
+.DS_Store

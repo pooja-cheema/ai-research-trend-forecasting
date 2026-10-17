@@ -1,0 +1,8 @@
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+gensim
+kaleido==0.2.1
+adjustText
+# also used (pre-installed on Kaggle): numpy, pandas, scikit-learn, scipy, matplotlib, plotly, tqdm
